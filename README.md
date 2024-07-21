@@ -1,3 +1,7 @@
+## Notes on this fork of pokeemerald-rogue
+These are built with the gcc-arm-none-eabi package
+> apt install gcc-arm-none-eabi
+
 # Pokémon Emerald
 
 This is a decompilation of Pokémon Emerald.
